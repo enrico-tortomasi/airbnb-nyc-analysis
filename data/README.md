@@ -34,6 +34,19 @@ Dataset originale disponibile su Kaggle:
 
 \- `description` – Descrizione
 
+\- `minimum_nights` – Numero minimo di notti
+
+\- `number_of_reviews` – Numero di recensioni
+
+\- `last_review` – Ultima recensione
+
+\- `reviews_per_month` – Numero di recensioni per mese
+
+\- `calculated_host_listings_count` – Numero di annunci per host
+
+\- `availability_365` – Numero di giorni in cui l'annuncio è prenotabile
+
+
 
 
 \## Nota
