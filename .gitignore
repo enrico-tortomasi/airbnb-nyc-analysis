@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
+venv/
+data/*.csv
+data/*.xlsx
+!data/sample.csv
