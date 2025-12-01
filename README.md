@@ -1,4 +1,6 @@
 # Airbnb NYC 2019 – Market Analysis (Python/Pandas)
+![Completed](https://img.shields.io/badge/Completed-✓-3CB371)
+
 
 ## Obiettivo
 Analizzare il mercato Airbnb a New York (2019): prezzi, disponibilità, differenze per quartiere e tipo di stanza; individuare pattern utili per host e pricing.
