@@ -60,7 +60,6 @@ con focus su prezzi, disponibilità e differenze tra quartieri.
 ## Struttura repo
 
 ```
-text
 airbnb-nyc-analysis/
 │
 ├─ data/
