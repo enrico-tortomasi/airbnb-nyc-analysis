@@ -87,19 +87,19 @@ jupyter notebook notebooks/airbnb_nyc_2019.ipynb
 
 ## Insight principali
 
-### - **Manhattan** è il quartiere più redditizio, **Bronx**/ **Staten Island** i minori invece.
+- ### **Manhattan** è il quartiere più redditizio, **Bronx**/ **Staten Island** i minori invece.
 
 ![Quartieri_più_redditizi](graphs/(Barplot)Quartieri_più_redditizi.png)
 
 ---
 
-### - Le **Entire Home/Apt** sono le piu' redditizie a **Manhattan** e **Brooklyn** con netto distacco, rispetto alle **Private room** che hanno un reddito inferiore ma ben distribuito in tutti i quartieri.
+- ### Le **Entire Home/Apt** sono le piu' redditizie a **Manhattan** e **Brooklyn** con netto distacco, rispetto alle **Private room** che hanno un reddito inferiore ma ben distribuito in tutti i quartieri.
 
 ![Stanze_più_redditizie_per_zona](graphs/(Heatmap)Stanze_più_redditizie_per_zona.png)
 
 ---
 
-### - Le fasce di prezzo più popolari sono quelle che vanno da **51-150**, con un discreto aumento di popolarità per le **Private room** nella fascia **101-150**.
+- ### Le fasce di prezzo più popolari sono quelle che vanno da **51-150**, con un discreto aumento di popolarità per le **Private room** nella fascia **101-150**.
 
 ![Popolarità_media_per_prezzo_e_stanza](graphs/(Barplot)Popolarità_media_per_prezzo_e_stanza.png)
 
