@@ -65,6 +65,12 @@ airbnb-nyc-analysis/
 │
 ├─ data/
 │   └─ airbnb_nyc.csv
+├─ graphs/
+│   ├─ (Barplot)Popolarità_media_per_prezzo_e_stanza.png
+│   ├─ (Barplot)Quartieri_più_redditizi.png
+│   ├─ (Barplot)Stanze_più_redditizie_per_zona.png
+│   ├─ (Heatmap)Popolarità_media_per_prezzo_e_stanza.png
+│   └─ (Heatmap)Stanze_più_redditizie_per_zona.png
 ├─ notebooks/
 │   └─ airbnb_nyc_analysis.ipynb
 └─ README.md
