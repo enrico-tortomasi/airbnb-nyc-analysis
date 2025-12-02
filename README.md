@@ -8,7 +8,7 @@ con focus su prezzi, disponibilità e differenze tra quartieri.
 ---
 
 ## Dataset
-- Fonte: Airbnb NYC 2019 (Inside Airbnb / Kaggle)
+- Fonte: [Airbnb NYC 2019 (Inside Airbnb / Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 - Campi principali: `neighbourhood_group`, `neighbourhood`, `room_type`, `price`, `minimum_nights`, `availability_365`, `number_of_reviews`, `reviews_per_month`
 - Nota: In `data/` è presente `AB_NYC_2019.csv`. Vedi istruzioni sotto.
 
